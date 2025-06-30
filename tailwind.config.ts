@@ -1,5 +1,5 @@
 import type { Config } from "tailwindcss"
-const shadcnConfig = require("./node_modules/ui/tailwind.config.js")
+// const shadcnConfig = require("./node_modules/ui/tailwind.config.js")
 
 const config: Config = {
   darkMode: ["class"],
